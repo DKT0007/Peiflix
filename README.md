@@ -1,2 +1,2 @@
 # Peiflix
-Peiflix is the Netflix for specialized content and tools. By building and loading your app/content on PipeFlix, you get direct access to a highly engaged audience, zero marketing hassle, low competition, and maximum monetization potential."
+Peiflix is your ultimate entertainment destination for non-stop fun! Stream a vast library of blockbuster movies, popular TV serials, and binge-worthy web series anytime, anywhere. Experience seamless video playback, personalized recommendations, and a user-friendly interface designed to elevate your daily entertainment. Dive into the world of endless storytelling with Peiflix!
